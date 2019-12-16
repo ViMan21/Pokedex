@@ -8,7 +8,7 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-model_file_url = 'https://storage.cloud.google.com/poke-151/export.pkl'
+model_file_url = 'https://doc-08-18-docs.googleusercontent.com/docs/securesc/ek05g5koq0joc8qnssho5fl890b6i8pr/n9ucd7lqgo414e2kj7dgtjk6gg45vmc0/1576476000000/04365121825450022664/04365121825450022664/16nBo8ju6LfEoKoAIiksFzxoxpFq_9gLZ?e=download&authuser=0&nonce=qke0hjqj606p6&user=04365121825450022664&hash=ft6897o1h286rcahsktjg4s60ppe8ggk'
 model_file_name = 'export'
 classes = ['Bulbasaur', 'Ivysaur', 'Venusaur', 'Charmander', 'Charmeleon', 'Charizard',
            'Squirtle', 'Wartortle', 'Blastoise', 'Caterpie', 'Metapod', 'Butterfree', 'Weedle',
