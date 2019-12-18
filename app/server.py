@@ -8,7 +8,7 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-model_file_url = 'https://drive.google.com/uc?id=16nBo8ju6LfEoKoAIiksFzxoxpFq_9gLZ&export=download'
+model_file_url = 'https://drive.google.com/uc?export=download&id=16nBo8ju6LfEoKoAIiksFzxoxpFq_9gLZ'
 model_file_name = 'export'
 classes = ['Bulbasaur', 'Ivysaur', 'Venusaur', 'Charmander', 'Charmeleon', 'Charizard',
            'Squirtle', 'Wartortle', 'Blastoise', 'Caterpie', 'Metapod', 'Butterfree', 'Weedle',
